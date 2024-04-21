@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="" target="_blank">Deepanshu.tech</a>
+  <a href="https://shankydv.github.io/Portfolio/" target="_blank">Deepanshu.tech</a>
 </h2>
 <div align="center">
   <img id="zoomedImage" alt="Demo" src="./Images/readme-img1.png" />
